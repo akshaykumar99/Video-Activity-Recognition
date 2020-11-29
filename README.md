@@ -20,3 +20,4 @@ In boxing dataset following file is corrupted **'person01_boxing_d4_uncomp.avi'*
 * sklearn
 * keras
 * matplotlib
+* tqdm
