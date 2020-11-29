@@ -13,3 +13,10 @@ You can download the dataset from here:
 * [Handclapping](http://www.nada.kth.se/cvap/actions/handclapping.zip)
 
 In boxing dataset following file is corrupted **'person01_boxing_d4_uncomp.avi'**, delete it before proceeding.
+
+## Dependencies
+* numpy
+* PIL
+* sklearn
+* keras
+* matplotlib
